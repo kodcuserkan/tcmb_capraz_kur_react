@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-style: italic;
+    color : whitesmoke;
+}
+
+main {
+    height: 100vh;
+    /* display: grid;
+    grid-template-columns: 1fr,1fr;
+    grid-template-rows: 1fr,1fr,1fr,1fr,1fr; */
+}
+.form-group1 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.form-control3 {
+    color: black;
+}
+.form-control2 {
+    color: black;
+}
+.form-control1 {
+    color: black;
+}
+.result {
+    color: whitesmoke;
+}
+.falseResult {
+    color: whitesmoke;
+}
