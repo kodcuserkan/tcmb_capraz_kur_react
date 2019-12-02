@@ -1,3 +1,9 @@
+DİKKAT  : 
+  1- App.js dosyasındaki "keyimiz" değişkenine kendi apikeyinizi tcmb evds sistemine üye olup ladıktan sonra yapıştırınız
+  2- Google chrome da CORS POLICY hatası alıyorsanız chrome için cors unblock extensionunu indirip on konumuna alıp çalıştırın
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
